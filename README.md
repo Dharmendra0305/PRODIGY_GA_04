@@ -10,7 +10,7 @@ This project implements an Image-to-Image translation model using a **Conditiona
 
 *Here’s the main interface of the Image-to-Image Translation with cGAN:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_04/blob/4e60bb66c86bea8ab8fc6ffc6c7a60c0820e3a89/1.png)
 
 This repository serves as **Task 04** for my Data Science/Machine Learning Internship at **Prodigy InfoTech**, demonstrating practical skills in advanced deep learning, computer vision, and interactive model deployment.
 
@@ -56,7 +56,8 @@ To run this project locally, follow these steps:
 
 This will generate a local URL (e.g., http://127.0.0.1:7860/) where you can upload satellite images and see the generated map results.
 
-![img]()
+*- Example:*
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_04/blob/4e60bb66c86bea8ab8fc6ffc6c7a60c0820e3a89/2.png)
 
 ## 🤝 Contribution Guidelines
 - Contributions, issues, and feature requests are welcome!
